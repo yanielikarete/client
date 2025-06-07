@@ -66,8 +66,8 @@ const Landing = ({ isAuthenticated }) => {
             <Grid item xs={12} md={6}>
               <Box
                 component="img"
-                src="/img/crypto-hero.svg"
-                alt="Crypto illustration"
+                src="/img_ripto.png"
+                alt="Ripto illustration"
                 sx={{
                   width: '100%',
                   maxHeight: 400,
